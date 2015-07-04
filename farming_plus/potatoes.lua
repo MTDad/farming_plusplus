@@ -175,6 +175,5 @@ minetest.register_craft({
 	type = "cooking",
 	cooktime = 10,
 	output = "farming:baked_potato",
-	recipe = "farming:potato"
+	recipe = "farming_plus:potato_item"
 })
-
